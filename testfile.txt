@@ -1,4 +1,4 @@
-install jenkins plugin
+install jenkins
 configure with jenkins
 create commit, branch & pull-request in github
 build jenkins job
