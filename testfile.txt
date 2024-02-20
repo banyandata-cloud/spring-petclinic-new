@@ -1,2 +1,2 @@
 create jenkins
-configure jenkins-jira
+configure jenkins-jira test
